@@ -1,0 +1,2855 @@
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0000081 blood cell
+UBERON:0002435 striatum
+UBERON:0001898 hypothalamus
+CL:0002322 embryonic stem cell
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+CL:0000081 blood cell
+CL:0000081 blood cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001891 midbrain
+CL:0002322 embryonic stem cell
+CL:0002319 neural cell
+UBERON:0001891 midbrain
+UBERON:0000044 dorsal root ganglion
+UBERON:0001891 midbrain
+UBERON:0000044 dorsal root ganglion
+UBERON:0002435 striatum
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001891 midbrain
+UBERON:0001891 midbrain
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0001891 midbrain
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002048 lung
+UBERON:0002048 lung
+UBERON:0002048 lung
+UBERON:0002048 lung
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+UBERON:0000922 embryo
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+UBERON:0001902 epithelium of small intestine
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+UBERON:0001902 epithelium of small intestine
+UBERON:0001902 epithelium of small intestine
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+UBERON:0001902 epithelium of small intestine
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001902 epithelium of small intestine
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+UBERON:0001902 epithelium of small intestine
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+UBERON:0001902 epithelium of small intestine
+UBERON:0001902 epithelium of small intestine
+UBERON:0001902 epithelium of small intestine
+CL:0002321 embryonic cell
+UBERON:0001902 epithelium of small intestine
+UBERON:0001902 epithelium of small intestine
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001902 epithelium of small intestine
+UBERON:0001902 epithelium of small intestine
+CL:0002321 embryonic cell
+UBERON:0001902 epithelium of small intestine
+UBERON:0001902 epithelium of small intestine
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+UBERON:0001902 epithelium of small intestine
+UBERON:0001902 epithelium of small intestine
+UBERON:0001902 epithelium of small intestine
+CL:0002321 embryonic cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002319 neural cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+UBERON:0001902 epithelium of small intestine
+CL:0002322 embryonic stem cell
+UBERON:0001902 epithelium of small intestine
+UBERON:0000922 embryo
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+UBERON:0001902 epithelium of small intestine
+CL:0002321 embryonic cell
+UBERON:0000922 embryo
+UBERON:0000922 embryo
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002319 neural cell
+CL:0002322 embryonic stem cell
+UBERON:0000922 embryo
+CL:0002322 embryonic stem cell
+UBERON:0000922 embryo
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0000922 embryo
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0000922 embryo
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001891 midbrain
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0002319 neural cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+UBERON:0001902 epithelium of small intestine
+CL:0000037 hematopoietic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+UBERON:0002435 striatum
+CL:0000763 myeloid cell
+CL:0000037 hematopoietic stem cell
+UBERON:0004129 growth plate cartilage
+UBERON:0000992 female gonad
+UBERON:0001997 olfactory epithelium
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000763 myeloid cell
+CL:0000163 endocrine cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+UBERON:0000473 testis
+CL:0002034 long term hematopoietic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0002319 neural cell
+CL:0000037 hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+CL:0000763 myeloid cell
+CL:0002319 neural cell
+CL:0000037 hematopoietic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0000992 female gonad
+CL:0000763 myeloid cell
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+CL:0000763 myeloid cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0000992 female gonad
+UBERON:0001003 skin epidermis
+UBERON:0000473 testis
+UBERON:0001997 olfactory epithelium
+UBERON:0000473 testis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0000763 myeloid cell
+CL:0000037 hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+UBERON:0000473 testis
+CL:0000037 hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+UBERON:0000473 testis
+UBERON:0000473 testis
+CL:0000037 hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+UBERON:0000473 testis
+UBERON:0000473 testis
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+UBERON:0000473 testis
+CL:0002033 short term hematopoietic stem cell
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0000473 testis
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+UBERON:0002435 striatum
+UBERON:0000473 testis
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0002322 embryonic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0002033 short term hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+UBERON:0000473 testis
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0000473 testis
+UBERON:0000992 female gonad
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+UBERON:0000473 testis
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0002322 embryonic stem cell
+CL:0000037 hematopoietic stem cell
+UBERON:0001997 olfactory epithelium
+CL:0002034 long term hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+UBERON:0001997 olfactory epithelium
+CL:0000037 hematopoietic stem cell
+UBERON:0000473 testis
+UBERON:0001003 skin epidermis
+UBERON:0000992 female gonad
+CL:0002033 short term hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0002033 short term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0000473 testis
+UBERON:0000473 testis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0000473 testis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0000353 blastoderm cell
+CL:0000353 blastoderm cell
+CL:0000353 blastoderm cell
+CL:0000353 blastoderm cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0000473 testis
+CL:0000353 blastoderm cell
+UBERON:0000473 testis
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0000353 blastoderm cell
+CL:0000353 blastoderm cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+CL:0000353 blastoderm cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+CL:0000353 blastoderm cell
+CL:0002322 embryonic stem cell
+CL:0000353 blastoderm cell
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000763 myeloid cell
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000037 hematopoietic stem cell
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000763 myeloid cell
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000763 myeloid cell
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000540 neuron
+CL:0000540 neuron
+CL:0000540 neuron
+UBERON:0002435 striatum
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0002435 striatum
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0002435 striatum
+CL:0000540 neuron
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0002435 striatum
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0000540 neuron
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+CL:0000540 neuron
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+CL:0000540 neuron
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001898 hypothalamus
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001898 hypothalamus
+UBERON:0002435 striatum
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001891 midbrain
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+CL:0000081 blood cell
+CL:0000081 blood cell
+CL:0000081 blood cell
+UBERON:0002107 liver
+CL:0000081 blood cell
+CL:0000081 blood cell
+CL:0000081 blood cell
+UBERON:0002107 liver
+CL:0000081 blood cell
+CL:0000081 blood cell
+CL:0000081 blood cell
+CL:0000081 blood cell
+CL:0000081 blood cell
+CL:0000081 blood cell
+CL:0000081 blood cell
+CL:0000081 blood cell
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+CL:0002322 embryonic stem cell
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001264 pancreas
+UBERON:0001264 pancreas
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0000235 macrophage
+CL:0000235 macrophage
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000763 myeloid cell
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000763 myeloid cell
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+CL:0000137 osteocyte
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+CL:0002322 embryonic stem cell
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+CL:0000163 endocrine cell
+UBERON:0001997 olfactory epithelium
+CL:0002319 neural cell
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+CL:0000163 endocrine cell
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+CL:0000163 endocrine cell
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+CL:0002319 neural cell
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+CL:0002319 neural cell
+CL:0002319 neural cell
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001851 cortex
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+UBERON:0002435 striatum
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0000235 macrophage
+CL:0001056 dendritic cell, human
+CL:0001056 dendritic cell, human
+CL:0001056 dendritic cell, human
+CL:0001056 dendritic cell, human
+CL:0001056 dendritic cell, human
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+UBERON:0000955 brain
+CL:0001056 dendritic cell, human
+CL:0001056 dendritic cell, human
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0000473 testis
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0000473 testis
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002321 embryonic cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0002435 striatum
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0002435 striatum
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0002435 striatum
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0001898 hypothalamus
+UBERON:0002435 striatum
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+CL:0000540 neuron
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0002435 striatum
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0002435 striatum
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001997 olfactory epithelium
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001851 cortex
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0002435 striatum
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0001003 skin epidermis
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0001898 hypothalamus
+UBERON:0000966 retina
+UBERON:0000966 retina
+UBERON:0002107 liver
+UBERON:0002107 liver
+UBERON:0002107 liver
+UBERON:0002107 liver
+UBERON:0002435 striatum
+UBERON:0001898 hypothalamus
+UBERON:0002435 striatum
+UBERON:0000044 dorsal root ganglion
+UBERON:0001898 hypothalamus
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+CL:0000540 neuron
+CL:0000540 neuron
+CL:0000540 neuron
+CL:0000540 neuron
+CL:0000540 neuron
+CL:0000540 neuron
+CL:0000540 neuron
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0000540 neuron
+CL:0000540 neuron
+CL:0000540 neuron
+CL:0002322 embryonic stem cell
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002319 neural cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0000473 testis
+UBERON:0001997 olfactory epithelium
+CL:0002319 neural cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001891 midbrain
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002319 neural cell
+CL:0002322 embryonic stem cell
+UBERON:0002435 striatum
+CL:0002319 neural cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002319 neural cell
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002319 neural cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002319 neural cell
+CL:0002319 neural cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0002435 striatum
+CL:0002322 embryonic stem cell
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+UBERON:0001891 midbrain
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001891 midbrain
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+CL:0002322 embryonic stem cell
+UBERON:0002435 striatum
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0000473 testis
+UBERON:0002435 striatum
+UBERON:0001898 hypothalamus
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0001891 midbrain
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+CL:0002319 neural cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001898 hypothalamus
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+CL:0002319 neural cell
+UBERON:0001851 cortex
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+CL:0002319 neural cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+CL:0002319 neural cell
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+CL:0002322 embryonic stem cell
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001891 midbrain
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0002435 striatum
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+UBERON:0001997 olfactory epithelium
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0002435 striatum
+CL:0002319 neural cell
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+CL:0002322 embryonic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001997 olfactory epithelium
+UBERON:0001997 olfactory epithelium
+UBERON:0001003 skin epidermis
+UBERON:0000044 dorsal root ganglion
+UBERON:0001898 hypothalamus
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0000044 dorsal root ganglion
+UBERON:0001898 hypothalamus
+UBERON:0000044 dorsal root ganglion
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+CL:0002034 long term hematopoietic stem cell
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+CL:0000037 hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0000037 hematopoietic stem cell
+CL:0002034 long term hematopoietic stem cell
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+CL:0002034 long term hematopoietic stem cell
+CL:0002034 long term hematopoietic stem cell
+CL:0002034 long term hematopoietic stem cell
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
+UBERON:0001003 skin epidermis
