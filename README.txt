@@ -1,3 +1,6 @@
+Submisssion by: 
+Sijie Fu (Andrew ID: sijief)
+Amira Alakhdar (Andrew ID: aalakhda)
 This project aims to develop a model for scRNA seq call type calssification, please read those file in the following order
 project_part1_2.ipynb                ---->                Model Selection and PCA
 Calculating_Silhouette-Score.ipynb   ---->                Code for generating Silhouette Scores
